@@ -22,7 +22,7 @@ setup(
     name = 'MLProject',
     version = '0.0.1',
     author = 'Abhigyan',
-    author_email = 'abhi9122431045@hmail.com',
+    author_email = 'abhi9122431045@gmail.com',
     packages = find_packages(),
     instsll_requires = get_requirements('requirements.txt')
 )
